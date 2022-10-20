@@ -2,7 +2,7 @@
 ## In this project, which was prepared only with HTML, it was planned to introduce Istanbul.
 
 
-![Istanbul](https://media.cntraveler.com/photos/5c2140fbe223c55afc3e41c7/16:9/w_1280,c_limit/Galata_Istanbul_GettyImages-979437472.jpg)
+![Istanbul](https://media.cntraveler.com/photos/5c2140fbe223c55afc3e41c7/16:9/w_640,c_limit/Galata_Istanbul_GettyImages-979437472.jpg)
 
 
 # Istanbul | A Welcoming City
